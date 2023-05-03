@@ -1,0 +1,4 @@
+npm install nodejs
+npm install mongodb
+
+node server
